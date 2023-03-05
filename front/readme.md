@@ -1,4 +1,5 @@
-# Projet protefolio
+# Projet protefolio basic :
+ - test de notions avec tuto comme support.
 
 
 ### Construit avec
@@ -11,7 +12,3 @@ HTML CSS JS
 www.linkedin.com/in/Khenissi-M
 
 
-## Remerciements
-
-Je m'appuie énormément sur la page grafikart pour pratiquer et apprendre de nouvelles notions.
-Merci à eux et leurs travaux fournis !
